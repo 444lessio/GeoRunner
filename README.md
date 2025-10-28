@@ -52,3 +52,16 @@ go mod tidy
 
 # Run the server
 go run main.go
+```
+### 2. Run the Frontend (React)
+
+```bash
+# from the frontend directory (frontend/)
+cd frontend
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+
